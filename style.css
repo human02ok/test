@@ -15,7 +15,7 @@ body {
   display: table;
 }
 h1, h2 {
-  color: #b71c1c;
+  color: #green;
   text-shadow:0 1px 1px #fff;
 }
 h1 {
@@ -43,5 +43,5 @@ h2 {
       from(rgba(255, 255, 255, 0)),
       to(#e57373)
     );
-  background-image: radial-gradient(rgba(255, 255, 255, 0), #e57373);
+  background-image: radial-gradient(rgba(255, 255, 255, 0), #green);
 }
